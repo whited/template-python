@@ -1,0 +1,36 @@
+#
+# Some useful/common packages that are handy to have in a Python Project
+#
+
+# Jupyter Notebooks / Data wrangling
+jupyter
+numpy    # https://numpy.org/
+pandas
+polars   # https://pola.rs/
+# plotly # https://plotly.com/python-api-reference/generated/plotly.html
+
+pytest
+
+# Image Manipulation (fork of PIL)
+# pillow # https://pypi.org/project/Pillow/
+
+# http-related
+requests # https://docs.python-requests.org/en/latest/index.html
+# flask
+# beautifulsoup4 # https://www.crummy.com/software/BeautifulSoup/
+
+# Formats
+simplejson # generally newer / better than built-in json
+# pendulum # better datetime
+
+# Random
+# emoji
+
+# CLI helpers
+# progress # progress bar
+# rich # rich text in terminal https://github.com/Textualize/rich
+
+# GUI
+# Tkinter
+# PyQt
+# Pywin32
